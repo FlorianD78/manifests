@@ -18,4 +18,6 @@ spec:
         number: 80
 ```
 Dans un autre terminal : minikube tunnel  
-Accès http://IP-ADRESS:PORT >> A améliorer : DNS, changement de l'ingress, certificat HTTPS  
+Accès http://IP-ADDRESS:PORT 
+
+>> A améliorer : DNS, changement de l'ingress, certificat HTTPS  <<
