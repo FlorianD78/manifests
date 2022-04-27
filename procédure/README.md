@@ -18,4 +18,4 @@ spec:
         number: 80
 ```
 Dans un autre terminal : minikube tunnel  
-Accès http://<IP-ADRESS>:<PORT>
+Accès http://IP-ADRESS:PORT
